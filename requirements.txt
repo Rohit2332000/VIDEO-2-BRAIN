@@ -24,5 +24,3 @@ langchain-huggingface
 sentence-transformers
 torch
 requests
-
-HuggingFaceEmbeddings
